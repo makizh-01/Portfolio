@@ -1,0 +1,8 @@
+{
+  "name": "AURA Tech - Innovative Solutions Portfolio",
+  "description": "A high-end professional portfolio for AURA Tech, a startup specializing in AI, Web, App Development, and IoT solutions. Featuring an integrated Gemini AI assistant for client inquiries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
